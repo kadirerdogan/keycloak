@@ -1,0 +1,4 @@
+[
+  { "key": "profile.phoneNumber", "value": "Phone Number" },
+  { "key": "profile.phoneNumber.invalid", "value": "Invalid phone number format." }
+]
